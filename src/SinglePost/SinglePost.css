@@ -1,0 +1,10 @@
+.post{
+    margin: 18px 0;
+}
+.post .post-body{
+    text-align: left;
+    border: 1px solid lightgray;
+    padding: 15px 60px;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}

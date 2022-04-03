@@ -1,0 +1,11 @@
+.post-container{
+    width: 90%;
+    margin: auto;
+    overflow-wrap: break-word;
+}
+.post-container a{
+    margin:8px;
+}
+.post-container a:hover{
+    color:red;
+}

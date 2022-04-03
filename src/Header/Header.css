@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px 12px;
+}
+nav div:hover a{
+    color: red !important;
+}
